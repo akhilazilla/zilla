@@ -1,6 +1,6 @@
 package com.example.kotlindemolectures
 
 fun main(){
-    print("Hello Kotlin")
+    print("Welcome to my First Kotlin program")
 
 }
